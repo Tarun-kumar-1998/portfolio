@@ -1,0 +1,189 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.name {
+    font-family: Bree Serif;
+    color: black;
+    font-weight: bold;
+    font-size: 22px;
+    margin: 10px;
+    margin-top: 35px;
+    text-align: center;
+}
+
+.crsl {
+    border-radius: 52px;
+}
+
+.bb {
+    text-align: center;
+}
+
+.crsll {
+    height: 35vh;
+
+}
+
+.hd {
+    background-color: #F0F7FB;
+    border-radius: 35px;
+    padding: 15px;
+    margin: 10px;
+    font-size: 18px;
+}
+
+.head {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.navb {
+    color: white;
+    background-color: white;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.fff {
+    color: white;
+}
+
+.bg {
+    background-color: #16223b;
+    background-size: cover;
+    height: 130vh;
+    padding: 10px;
+}
+
+.para {
+    font-size: 15px;
+    font-family: Consolas;
+}
+
+.imgg {
+    border-radius: 75px;
+    width: 130px;
+    margin-top: 95px;
+    border: 2px solid white;
+}
+
+.navimg {
+    height: 40px;
+    width: 40px;
+    border-radius: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.typingbg {
+    background-color: #dac0ff;
+    background-size: cover;
+    border-radius: 15px;
+    padding: 17px;
+    margin-top: 20px;
+}
+
+.hdtyping {
+    color: #690cb0;
+    font-weight: bold;
+    font-family: Sans-Serif;
+    margin: 12px;
+}
+
+.typingcaption {
+    color: #3e4c59;
+    margin: 10px;
+    font-family: Sans-Serif;
+}
+
+.typingcaptionn {
+    color: black;
+    font-weight: bold;
+    height: 40px;
+    margin: 10px;
+    font-family: Sans-Serif;
+}
+
+.typingdisplaj {
+    margin: 15px;
+    font-family: serif;
+    color: red;
+}
+
+.typingbgtwo {
+    background-color: #f3eaff;
+    border-style: solid;
+    border-width: 4px;
+    border-color: black;
+    margin: 20px;
+    padding: 18px;
+    border-radius: 13px;
+}
+
+.typingoutput {
+    color: Green;
+    margin: 15px;
+    text-align: center;
+    font-weight: bold;
+    font-family: Arial;
+}
+
+.typingsubmitbtm {
+    background-color: #690cb0;
+    border-radius: 5px;
+    margin: 15px;
+    padding: 10px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: white;
+}
+
+.typingimdxzsx {
+    height: 60px;
+}
+
+.textareaspeedyesting {
+    background-color: #dac0ff;
+    margin: 15px;
+    width: 80%;
+    padding: 12px;
+    border-radius: 15px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: white;
+}
+
+.typingresetbutton {
+    background-color: #f2ebfe;
+    margin: 15px;
+    padding: 10px;
+    border-style: solid;
+    border-radius: 5px;
+    border-width: 2px;
+    border-color: white;
+}
